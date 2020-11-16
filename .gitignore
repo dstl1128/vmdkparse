@@ -1,0 +1,21 @@
+*.bak
+*.log
+*.ncb
+*.o
+*.orig
+*.out
+*.patch
+*.rej
+.*swp
+.~*
+tags
+
+# Visual Studio 2019 generated files
+*.suo
+*.user
+.vs/
+ipch/
+Debug/
+Release/
+obj/
+
